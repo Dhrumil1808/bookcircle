@@ -25,6 +25,14 @@
   margin-left: 50%;
   width:  100%;
 }
+
+.circle_44 li
+{
+  list-style-type: none;
+  display: inline;
+  margin-left: 18%;
+}
+
 html,
 body {
   height: 100%;
