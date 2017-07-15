@@ -1,3 +1,8 @@
+/*!
+ * Start Bootstrap - New Age v3.3.7 (http://startbootstrap.com/template-overviews/new-age)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
 .heading-font {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
@@ -32,6 +37,34 @@
   color: #FFF;
   font-size: 16px;
   margin-left: 3%;
+}
+.tyler
+{
+  margin-left: 12%;
+}
+.chong
+{
+  margin-left: 18%;
+}
+.dhrumil
+{
+  margin-left: 12%;
+}
+.arjun
+{
+  margin-left: 11%;
+}
+.julian
+{
+  margin-left: 5%;
+}
+#row_2
+{
+  margin-left: 18%;
+}
+#row_3
+{
+  margin-left: 0%;
 }
 .usa_12
 {
