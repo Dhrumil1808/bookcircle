@@ -25,6 +25,74 @@
   margin-left: 50%;
   width:  100%;
 }
+.circle_44 
+{
+  list-style-type: none;
+  display: inline;
+  margin-left: 13%;
+  width: 40%;
+}
+.circle_44 span
+{
+  color: #FFF;
+  font-size: 16px;
+  margin-left: 3%;
+}
+#row_2
+{
+  margin-left: 18%;
+}
+#row_3
+{
+  margin-left: 0%;
+}
+.usa_12
+{
+  width: 40%;
+  margin:-17% 0px 0px 56%;
+}
+.usa_12 img
+{
+  margin-left: 32%;
+}
+.usa_12 span
+{
+  color: #FFF;
+  font-size: 16px;
+}
+
+.tyler
+{
+  margin-left: 12%;
+}
+.chong
+{
+  margin-left: 18%;
+}
+.dhrumil
+{
+  margin-left: 12%;
+}
+.arjun
+{
+  margin-left: 11%;
+}
+.julian
+{
+  margin-left: 5%;
+}
+.desc li
+{
+  list-style-type: none;
+  display: inline;
+  margin-left: 18%;
+  width: 40%;
+  color: #FFF;
+}
+.circle_44 li
+{
+ color: #FFF;
+}
 html,
 body {
   height: 100%;
@@ -142,6 +210,8 @@ p {
   .navbar-default .navbar-header .navbar-brand:focus {
     color: white;
   }
+
+
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
     color: rgba(255, 255, 255, 0.7);
@@ -212,6 +282,57 @@ header .device-container {
 header .device-container .screen img {
   border-radius: 3px;
 }
+
+@media(max-width: 768px)
+{
+  .usa_12
+{
+  width: 40%;
+  margin:4% 0px 0px 0%;
+}
+.tyler
+{
+  margin-left: 35%;
+}
+.chong
+{
+  margin-left: 35%;
+}
+.dhrumil
+{
+  margin-left: 35%;
+}
+.arjun
+{
+  margin-left: 35%;
+}
+.julian
+{
+  margin-left: 35%;
+}
+.img-box img
+{
+  margin-left: 30%;
+}
+.circle_44
+{
+  margin-left: 40%;
+}
+.usa_12
+{
+margin-left: 30%;
+}
+
+.circle_44 span
+{
+  text-align: center;
+  margin-left: 22%;
+}
+.usa_12 span
+{
+text-align: center;
+}
+}
 @media (min-width: 768px) {
   header {
     min-height: 100%;
@@ -279,6 +400,10 @@ section.download .badges .badge-link img {
   }
 
 }
+#row_2
+{
+  margin-left: 0%;
+}
 section.features .section-heading {
   margin-bottom: 100px;
 }
@@ -339,6 +464,7 @@ section.aboutus .device-container {
 section.features .feature-item {
   text-align: center;
   margin-bottom: 100px;
+  margin-top: 43px;
 }
 section.features .feature-item h3 {
   font-size: 30px;
