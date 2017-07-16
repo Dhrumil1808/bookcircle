@@ -486,8 +486,7 @@ section.cta .cta-content h2 {
 }
 
 
-@media (max-width: 768px)
-{
+@media (max-width: 768px) {
   .usa_12
 {
   width: 40%;
