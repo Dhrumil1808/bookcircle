@@ -283,57 +283,6 @@ header .device-container .screen img {
   border-radius: 3px;
 }
 
-@media (max-width: 768px)
-{
-  .usa_12
-{
-  width: 40%;
-  margin:4% 0px 0px 0%;
-}
-.tyler
-{
-  margin-left: 35%;
-}
-.chong
-{
-  margin-left: 35%;
-}
-.dhrumil
-{
-  margin-left: 35%;
-}
-.arjun
-{
-  margin-left: 35%;
-}
-.julian
-{
-  margin-left: 35%;
-}
-.img-box img
-{
-  margin-left: 30%;
-}
-.circle_44
-{
-  margin-left: 40%;
-}
-.usa_12
-{
-margin-left: 30%;
-}
-
-.circle_44 span
-{
-  text-align: center;
-  margin-left: 22%;
-}
-.usa_12 span
-{
-text-align: center;
-}
-}
-
 @media (min-width: 768px) {
   header {
     min-height: 100%;
@@ -534,6 +483,58 @@ section.cta .cta-content h2 {
   section.cta .cta-content h2 {
     font-size: 50px;
   }
+}
+
+
+@media (max-width: 768px)
+{
+  .usa_12
+{
+  width: 40%;
+  margin:4% 0px 0px 0%;
+}
+.tyler
+{
+  margin-left: 35%;
+}
+.chong
+{
+  margin-left: 35%;
+}
+.dhrumil
+{
+  margin-left: 35%;
+}
+.arjun
+{
+  margin-left: 35%;
+}
+.julian
+{
+  margin-left: 35%;
+}
+.img-box img
+{
+  margin-left: 30%;
+}
+.circle_44
+{
+  margin-left: 40%;
+}
+.usa_12
+{
+margin-left: 30%;
+}
+
+.circle_44 span
+{
+  text-align: center;
+  margin-left: 22%;
+}
+.usa_12 span
+{
+text-align: center;
+}
 }
 section.cta .overlay {
   height: 100%;
