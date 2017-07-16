@@ -484,7 +484,10 @@ section.aboutus .feature-item i {
 {
 margin-left: 30%;
 }
-
+.row_2
+  {
+    margin-left:0%;
+  }
 .circle_44 span
 {
   text-align: center;
